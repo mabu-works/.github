@@ -3,8 +3,8 @@
 まぶが個人開発する **Web サービス** の組織です。
 すべてのサービスは Vercel で公開していて、ブラウザだけで動きます（登録不要・無料）。
 
-- 🌐 個人サイト（全サービスまとめ）: https://mabu.vercel.app
-- 💬 まぶ鯖公式サイト: https://mabusaba.vercel.app
+- 🌐 個人サイト（全サービスまとめ）: [mabu.vercel.app](https://mabu.vercel.app)
+- 💬 まぶ鯖公式サイト: [mabusaba.vercel.app](https://mabusaba.vercel.app)
 - 👤 開発者: [@i-mabu](https://github.com/i-mabu)
 - 🤖 Bot の組織: [@mabu-bots](https://github.com/mabu-bots)
 
